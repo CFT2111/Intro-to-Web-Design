@@ -24,7 +24,7 @@ A really important factor in web design is page speed, how fast a web page loads
 * Developer tools can mimic different connection speeds. Try adjusting the connection speed and seeing the impact on page load times. 
 * There are also online tools that will analyse page load times e.g. PageSpeed Insights - https://developers.google.com/speed/pagespeed/insights/. Try testing your website with PageSpeed Insights.
 * If you are using Chrome, another tool you can use is Lighthouse:
-    * In developer tools select *audit*  and then choose the performance audit to get a score for the site
+    * In developer tools select *audit*  and then choose the *performance* audit to get a score for the site
 
 ## Accessibility
 * Another important consideration is accessibility - will people with disabilities be able to access and use the site.
