@@ -28,7 +28,7 @@ A really important factor in web design is page speed, how fast a web page loads
 
 ## Accessibility
 * Another important consideration is accessibility - will people with disabilities be able to access and use the site.
-* Testing accessibility is difficult but there are tools that can help us. Web Accessibility Evaluation Tool (WAVE) is a browser extension that will report on common accessibility issues. 
-    * Visit https://wave.webaim.org/extension/ and follow the link for either Chrome or Firefox to install the extension.
-* Test some website using the WAVE tool. Don't worry if you don't understand all the errors, at the moment we just want to get an understanding of the kind of issues we will be paying attention to during the course of the module. 
+* Testing accessibility is difficult but there are tools that can help us. Web Accessibility Evaluation Tool (WAVE) is a tool that will report on common accessibility issues. 
+   * Visit https://wave.webaim.org/ and test some website using the WAVE tool. Don't worry if you don't understand all the errors. At the moment we just want to get an understanding of the kind of issues we will be paying attention to during the course of the module. 
+
 
